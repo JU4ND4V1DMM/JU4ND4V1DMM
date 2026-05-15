@@ -1,132 +1,209 @@
-<h1 align="center">Hola, soy Juan David Méndez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- HEADER -->
+<h1 align="center">
+  Hey, I'm Juan David Méndez
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
+
+<sub align="center"><p align="center"><i>Hola, soy Juan David Méndez</i></p></sub>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300D4AA&size=22&center=true&vCenter=true&width=700&height=80&lines=Backend+Developer+%7C+Data+Architect;Big+Data+%7C+PySpark+%7C+PostgreSQL;Machine+Learning+%7C+Deep+Learning;Web+Scraping+%7C+Automation+%7C+RPA;Cybersecurity+%7C+Ethical+Hacking;Clean+Code+%7C+DevOps+%7C+Linux" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300D4AA&size=20&center=true&vCenter=true&width=720&height=70&lines=Backend+Developer+%7C+Data+Architect;Big+Data+·+PySpark+·+PostgreSQL+·+MongoDB;Machine+Learning+%7C+Deep+Learning+%7C+AI;Web+Scraping+%7C+Automation+%7C+RPA;Cybersecurity+%7C+Ethical+Hacking+%7C+ISO+27001;DevOps+%7C+Docker+%7C+Linux+%7C+Clean+Code" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JU4ND4V1DMM&label=Profile%20views&color=00D4AA&style=plastic" alt="JU4ND4V1DMM" height=25px width=160px/>
+  <img src="https://komarev.com/ghpvc/?username=JU4ND4V1DMM&label=Profile+views&color=00D4AA&style=flat-square" height="22"/>
   &nbsp;
   <a href="https://commits.top/colombia.html" target="_blank">
-    <img src="https://img.shields.io/badge/Most%20Active%20GitHub%20User-Colombia%20🇨🇴-00D4AA?style=plastic" alt="Most Active Colombia" height=25px />
+    <img src="https://img.shields.io/badge/🇨🇴_Most_Active_GitHub_User-Colombia-00D4AA?style=flat-square" height="22"/>
   </a>
 </p>
 
+<br/>
+
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
+<!-- ABOUT ME -->
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"/></picture> About me &nbsp;<sub><sup><i>/ Sobre mí</i></sup></sub>
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="240px"/>
 </picture>
 
-<br><br>
+<br/>
 
-- 🏢 Actualmente trabajo como `Coordinador de Desarrollo` en **Recupera SAS** — LumynaSystems / Syncra.
-- 🏆 **1er lugar** en la Hackatón `Samsung Innovation Campus 2023` entre +500 participantes nacionales.
-- 🐍 Me apasiona `Python` como solución a cualquier problema de datos y automatización.
-- 🤖 Trabajo con `Big Data`, `Machine Learning` y `Deep Learning` aplicados a soluciones reales de negocio.
-- 🔐 Me interesa profundamente la `Ciberseguridad` y el `Hacking Ético`.
-- 🐧 Trabajo diariamente sobre entornos `Linux` con `Docker` y flujos `DevOps`.
-- 📚 Siempre aprendiendo — actualmente profundizando en `ISO 27001` y `Hacking Ético con Python`.
-- 💼 Abierto a nuevas oportunidades — este es [MI CV](https://drive.google.com/drive/folders/1nbcBJoTkUDvy2zt-2wwWLfwFSeGEGWyx?usp=sharing).
-- 🌐 Puedes visitar [MI PORTFOLIO](https://juandmdev.netlify.app/).
+<sub>
 
-<br>
+- 🏢 Currently **Development Coordinator** at **Recupera SAS** — LumynaSystems / Syncra
+- 🏆 **1st place** — Samsung Innovation Campus Hackathon 2023 among +500 national participants
+- 🐍 I turn data chaos into scalable, elegant `Python` solutions
+- 🤖 Working daily with `Big Data`, `Machine Learning` & `Deep Learning` in real business environments
+- 🔐 Deeply interested in `Cybersecurity`, `Ethical Hacking` & `ISO 27001`
+- 🐧 Living in `Linux` terminals with `Docker` & `DevOps` pipelines
+- 📚 Always learning — currently going deeper into ethical hacking techniques and data architecture patterns
+- 💼 Open to new opportunities — check [MY RESUME](https://drive.google.com/drive/folders/1nbcBJoTkUDvy2zt-2wwWLfwFSeGEGWyx?usp=sharing)
+- 🌐 Visit [MY PORTFOLIO](https://juandmdev.netlify.app/)
 
----
+</sub>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Conéctate conmigo
+<br/>
 
-<p align="center">
-  <a href="https://juandmdev.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%2300D4AA.svg?style=plastic&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a>
-  &nbsp;
-  <a href="https://github.com/JU4ND4V1DMM" target="blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  &nbsp;
-  <a href="mailto:juan_david_mendez_@outlook.com"><img src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=plastic&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
-  &nbsp;
-  <a href="https://wa.me/573103022724" target="blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  &nbsp;
-  <a href="https://x.com/D4v1dJu4n74549" target="blank"><img src="https://img.shields.io/badge/Twitter%2FX-%23000000.svg?style=plastic&logo=x&logoColor=white" alt="Twitter/X"/></a>
-  &nbsp;
-  <a href="https://www.instagram.com/n4uj_d1" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  &nbsp;
-  <a href="https://drive.google.com/drive/folders/1nbcBJoTkUDvy2zt-2wwWLfwFSeGEGWyx?usp=sharing" target="blank"><img src="https://img.shields.io/badge/CV%20en%20Drive-%234285F4.svg?style=plastic&logo=google-drive&logoColor=white" alt="CV Drive"/></a>
-</p>
+<sub><i>
+- 🏢 Coordinador de Desarrollo en Recupera SAS — LumynaSystems / Syncra
+- 🏆 1er lugar Hackatón Samsung Innovation Campus 2023 (+500 participantes nacionales)
+- 🔐 Apasionado por la Ciberseguridad, Hacking Ético e ISO 27001
+- 📚 Siempre aprendiendo — arquitectura de datos y técnicas avanzadas de hacking ético
+</i></sub>
+
+<br/><br/>
 
 ---
 
-## 🛠️ Mis Habilidades
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Lenguajes de Programación
-
-<p align="center">
-  &emsp;<a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=plastic&logo=gnu-bash&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="DAX" src="https://img.shields.io/badge/DAX-%23F2C811.svg?style=plastic&logo=powerbi&logoColor=black"></a>
-  &emsp;<a href="#"><img alt="VBA" src="https://img.shields.io/badge/VBA-%23217346.svg?style=plastic&logo=microsoft-excel&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=postgresql&logoColor=white"></a>
-</p>
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Datos, ML & Automatización
+<!-- CONNECT -->
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="90px"/></picture> Connect with me &nbsp;<sub><sup><i>/ Conéctate conmigo</i></sup></sub>
 
 <p align="center">
-  &emsp;<a href="#"><img alt="PySpark" src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=plastic&logo=apachespark&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=plastic&logo=powerbi&logoColor=black"></a>
-  &emsp;<a href="#"><img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-%230066FF.svg?style=plastic&logo=powerautomate&logoColor=white"></a>
-</p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="50px"></picture> Bases de Datos
+  <a href="https://juandmdev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/JU4ND4V1DMM" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:juan_david_mendez_@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/573103022724" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/D4v1dJu4n74549" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/n4uj_d1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/drive/folders/1nbcBJoTkUDvy2zt-2wwWLfwFSeGEGWyx?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
 
-<p align="center">
-  &emsp;<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=plastic&logo=postgresql&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
-</p>
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> DevOps, APIs & Herramientas
-
-<p align="center">
-  &emsp;<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-%23009688.svg?style=plastic&logo=fastapi&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white"></a>
-</p>
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"></picture> Sistemas Operativos
-
-<p align="center">
-  &emsp;<a href="#"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;<a href="#"><img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;<a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=plastic&logo=kali-linux&logoColor=white"></a>
-  &emsp;<a href="#"><img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Diseño, Documentación & Modelado
-
-<p align="center">
-  &emsp;<a href="#"><img src="https://img.shields.io/badge/Draw.io-%23F08705.svg?style=plastic&logo=diagrams.net&logoColor=white"></a>
-  &emsp;<a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white"></a>
-  &emsp;<a href="#"><img src="https://img.shields.io/badge/Obsidian-%237C3AED.svg?style=plastic&logo=obsidian&logoColor=white"></a>
-  &emsp;<a href="#"><img src="https://img.shields.io/badge/Miro-%23050038.svg?style=plastic&logo=miro&logoColor=white"></a>
-  &emsp;<a href="#"><img src="https://img.shields.io/badge/Lucidchart-%23F96B13.svg?style=plastic&logo=lucidchart&logoColor=white"></a>
 </p>
 
 ---
 
+<!-- SKILLS -->
+## 🛠️ My Skills &nbsp;<sub><sup><i>/ Mis habilidades</i></sup></sub>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="45px"/></picture> Languages &nbsp;<sub><i>/ Lenguajes</i></sub>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="45px"/></picture> Data, ML & Automation &nbsp;<sub><i>/ Datos, ML y Automatización</i></sub>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="45px"/></picture> Databases &nbsp;<sub><i>/ Bases de datos</i></sub>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="45px"/></picture> DevOps, APIs & Tools &nbsp;<sub><i>/ DevOps, APIs y herramientas</i></sub>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="45px"/></picture> Operating Systems &nbsp;<sub><i>/ Sistemas operativos</i></sub>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="45px"/></picture> Cybersecurity &nbsp;<sub><i>/ Ciberseguridad</i></sub>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ISO%2027001-005571?style=for-the-badge&logo=icloud&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="45px"/></picture> Design & Documentation &nbsp;<sub><i>/ Diseño y documentación</i></sub>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
+
+---
+
+<!-- TECH ICONS -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que uso 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Use 👨🏻‍💻 &nbsp;<sub><sup><i>/ Tecnologías que uso</i></sup></sub></h2></summary>
   </ul>
 </div>
 
@@ -138,42 +215,65 @@
 
 ---
 
+<!-- EDUCATION -->
+## 🎓 Education &nbsp;<sub><sup><i>/ Formación</i></sup></sub>
+
+<sub>
+
+| 🏫 | Program | Institution | Year |
+|:---:|:---|:---|:---:|
+| 🎓 | Software Engineering | UNIMINUTO | In progress |
+| 🤖 | Deep Learning & Artificial Intelligence — Specialized Diploma | Universidad del Rosario | 2024 |
+| 🤖 | Machine Learning — Specialized Diploma | Universidad del Rosario | 2023 |
+| 🐍 | Python Programming — Specialized Diploma | Universidad del Rosario | 2023 |
+| 🛡️ | Cybersecurity & Ethical Hacking with Python | Udemy | 2025 |
+| 📋 | Internal Auditor ISO 27001 | Certiprof | 2025 |
+| 🌐 | Introduction to Cybersecurity | Cisco Networking Academy | 2023 |
+| 🐧 | Linux Unhatched | Netlab Development Group | 2023 |
+| 🏆 | Samsung Innovation Campus — Hackathon 1st Place | Samsung | 2023 |
+| 🗄️ | Database Construction with MySQL | SENA | 2022 |
+
+</sub>
+
+---
+
+<!-- QUOTE -->
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"/>
   </a>
 </p>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Estadísticas de GitHub
+<!-- STATS -->
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="45px"/></picture> GitHub Stats &nbsp;<sub><sup><i>/ Estadísticas de GitHub</i></sup></sub>
 
-<details><summary><h3>🔥 Racha de Commits</h3></summary>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JU4ND4V1DMM&theme=tokyonight_duo" alt="JU4ND4V1DMM" />
-</p>
-
-</details>
-
-<details><summary><h3>💻 Estadísticas del Perfil</h3></summary>
+<details><summary><h3>🔥 Commit Streak &nbsp;<sub><i>/ Racha de commits</i></sub></h3></summary>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Juan David's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JU4ND4V1DMM&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JU4ND4V1DMM&langs_count=10&show_icons=true&locale=es&theme=tokyonight" alt="JU4ND4V1DMM" height="230px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JU4ND4V1DMM&theme=tokyonight_duo" alt="JU4ND4V1DMM"/>
 </p>
-<br/>
-<b>Nota:</b> Los lenguajes mostrados corresponden únicamente al código público en mis repositorios.
 
 </details>
 
-<details><summary><h3>⚡ Actividad Reciente en GitHub</h3></summary>
+<details><summary><h3>💻 Profile Stats &nbsp;<sub><i>/ Estadísticas del perfil</i></sub></h3></summary>
+
+---
+
+<p align="center">
+  <img alt="Juan David's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JU4ND4V1DMM&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JU4ND4V1DMM&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="JU4ND4V1DMM" height="230px"/>
+</p>
+
+<sub align="center"><p align="center"><i>Note: Top languages only reflect my public repository code, not overall experience or skill level.</i></p></sub>
+
+</details>
+
+<details><summary><h3>⚡ Recent Activity &nbsp;<sub><i>/ Actividad reciente</i></sub></h3></summary>
 
 ---
 
@@ -181,34 +281,37 @@
 
 </details>
 
-<details><summary><h3>🏆 Trofeos del Perfil</h3></summary>
+<details><summary><h3>🏆 Profile Trophies &nbsp;<sub><i>/ Trofeos del perfil</i></sub></h3></summary>
 
 ---
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JU4ND4V1DMM&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="JU4ND4V1DMM" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JU4ND4V1DMM&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="JU4ND4V1DMM"/>
   </a>
 </p>
 
 </details>
 
-</br></br>
+<br/>
 
 ---
 
-## 🐍 Una Serpiente Devorando mis Contribuciones
+<!-- SNAKE -->
+## 🐍 A Snake Eating my Contributions &nbsp;<sub><sup><i>/ Una serpiente devorando mis contribuciones</i></sup></sub>
 
 <p align="center">
-  <img src="https://github.com/JU4ND4V1DMM/JU4ND4V1DMM/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+  <img src="https://raw.githubusercontent.com/JU4ND4V1DMM/JU4ND4V1DMM/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
 
+<br/>
+
 <div align="center">
-
-*"Arquitectar soluciones que transformen datos en decisiones."*
-
-**Juan David Méndez** · Backend Developer & Data Architect · Bogotá 🇨🇴
-
+  <sub><i>"Architecting solutions that transform data into decisions."</i></sub>
+  <br/>
+  <sub><i>«Arquitectar soluciones que transformen datos en decisiones.»</i></sub>
+  <br/><br/>
+  <sub><b>Juan David Méndez</b> · Backend Developer & Data Architect · Bogotá 🇨🇴</sub>
 </div>

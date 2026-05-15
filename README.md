@@ -29,7 +29,7 @@
 
 <br/>
 
-- 🏢 Currently **Development Coordinator** at **Recupera SAS** — LumynaSystems / Syncra
+- 🏢 Currently **Development Coordinator**
 - 🏆 **1st place** — Samsung Innovation Campus Hackathon 2023 among +500 national participants
 - 🐍 I turn data chaos into scalable, elegant `Python` solutions
 - 🤖 Working daily with `Big Data`, `Machine Learning` & `Deep Learning` in real business environments

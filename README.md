@@ -212,6 +212,8 @@
 
 ## ⏰ Coding Time & Productivity
 
+*📊 Estadísticas desde la conexión a WakaTime (2026)*
+
 <!--START_SECTION:waka-->
 
 ```txt

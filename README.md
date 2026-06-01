@@ -217,7 +217,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2026 - To: 30 May 2026
+From: 15 May 2026 - To: 31 May 2026
 
 TypeScript   1 hr 52 mins          █████████████▒░░░░░░░░░░░   53.83 %
 Python       1 hr 15 mins          █████████░░░░░░░░░░░░░░░░   35.92 %
